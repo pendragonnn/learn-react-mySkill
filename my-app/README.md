@@ -1,3 +1,8 @@
+# Learn React Part 1 (Component)
+Komponen dalam React memiliki konsep yang sama seperti penggunaan fungsi dalam javascript. Namun dalam implementasinya terdapat satu perbedaan, yaitu pada fungsi ia menerima sembarang input atau argumen dan mengembalikan sebuah nilai, sedangkan pada komponen ia menerima input yang disebut sebagai 'props' dan mengembalikan React element yang nantinya akan ditampilkan di layar.
+
+Sejatinya terdapat 2 cara penulisan komponen dalam React, yaitu functional component dan class component. Pada part ini yang digunakan adalah class component.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
